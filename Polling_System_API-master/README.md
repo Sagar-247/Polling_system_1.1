@@ -1,4 +1,4 @@
-# Api-Polling-System
+# Polling-System
 
 ## Introduction
 
@@ -18,11 +18,9 @@ using Express, Nodejs, MongoDB.
 
 <br/>
 
-## Important Link:
+## Reference  Link:
 
 - **Youtube Video URL**: https://youtu.be/U9jCoAZ93MM
-- **Hosting Link**: https://polling-system-api-517c.onrender.com/
-- **Sample Postman Documentation Link**: https://documenter.getpostman.com/view/9062378/2s8YevqB89
 
 <br/>
 
@@ -55,13 +53,7 @@ using Express, Nodejs, MongoDB.
 
 ## Tools Used
 
- <p align="justify">
-<img height="140" width="140" src="https://www.startechup.com/wp-content/uploads/January-11-2021-Nodejs-What-it-is-used-for-and-when-where-to-use-it-for-your-enterprise-app-development.jpg">
-<img height="140" width="140" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png">
-<img height="140" width="140" src="https://g.foolcdn.com/art/companylogos/square/mdb.png">
-<img height="140" width="140" src="https://mms.businesswire.com/media/20210806005076/en/761650/22/postman-logo-vert-2018.jpg">
-<img height="140" width="140" src="https://www.pngitem.com/pimgs/m/13-131098_visual-studio-code-logo-hd-png-download.png">
-</p>
+ 
 
 - Version Control System: Git
 - VCS Hosting: GitHub
@@ -107,7 +99,7 @@ $ npm install npm -g
 2. Change the current working directory to the location where you want the cloned directory.
 
    ```
-   $ git clone https://github.com/kartiksarwan2017/Polling_System_API
+ 
 
    ```
 
